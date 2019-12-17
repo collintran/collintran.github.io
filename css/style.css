@@ -2,7 +2,7 @@ html,
 body {
   height: 100%;
   font-weight: 300;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Be Vietnam', sans-serif;
 }
 
 h1,
@@ -13,7 +13,7 @@ h5,
 h6 {
   color: #001418;
   margin: 0;
-  font-weight: 400;
+  font-weight: 500;
   font-family: 'Quicksand', sans-serif;
 }
 
@@ -21,6 +21,10 @@ p {
   font-size: 18px;
   color: #979797;
   line-height: 1.7;
+}
+
+b {
+  font-weight: 600;
 }
 
 figcaption {
